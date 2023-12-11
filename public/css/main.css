@@ -1,0 +1,10 @@
+body {
+    background-repeat: no-repeat;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(../img/HomeBG1.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: bold;
+    min-height: 100vh;
+    height: auto;
+}
